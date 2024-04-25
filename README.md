@@ -1,7 +1,9 @@
 Detector de Mutantes
+
 Este proyecto en Java implementa un algoritmo para detectar si un humano es mutante basándose en su secuencia de ADN.
 
-Consigna
+Consigna:
+
 Magneto quiere reclutar la mayor cantidad de mutantes para poder luchar contra los X-Men. Te ha contratado para que desarrolles un proyecto que detecte si un humano es mutante basándose en su secuencia de ADN.
 
 Debes crear un programa Java con un método o función con la siguiente firma:
